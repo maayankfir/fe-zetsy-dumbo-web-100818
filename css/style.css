@@ -59,3 +59,8 @@ header a:hover {
 #copyrights {
 	font-size: 0.8em;
 }
+
+#title_logo
+ {
+	 border: 5px rgb(152,173,166) soild;
+ }
