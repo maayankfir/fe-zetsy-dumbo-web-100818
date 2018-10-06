@@ -51,24 +51,35 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-.press_logo {
-	border: 5px #ccc solid;
+#featured img {
+	border: 5px rgb(152,173,166);
+}
+
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+	border: 5px #ccc soild;
 	padding: 1px;
+}
+
+#press img:hover{
+	border: 5px rbg(111,127,122);
 }
 
 #copyrights {
 	font-size: 0.8em;
 }
-
-
-
- header {
-	 display: block;
- }
-
- section {
-	 margin-bottom: 20px;
- }
 
  footer {
 	 text-align: right;
