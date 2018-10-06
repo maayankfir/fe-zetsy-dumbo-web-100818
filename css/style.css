@@ -51,7 +51,7 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-.logo {
+.press_logo {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
@@ -59,3 +59,5 @@ header a:hover {
 #copyrights {
 	font-size: 0.8em;
 }
+
+
