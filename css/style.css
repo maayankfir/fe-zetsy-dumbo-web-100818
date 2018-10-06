@@ -64,3 +64,16 @@ header a:hover {
  {
 	 border: 5px rgb(152,173,166) soild;
  }
+
+ header {
+	 display: block;
+ }
+
+ section {
+	 margin-bottom: 20px;
+ }
+
+ footer {
+	 text-align: right;
+	 background: #fff
+ }
